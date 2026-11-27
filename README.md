@@ -9,6 +9,7 @@ A modern institutional digital library, research repository, and open-access arc
 - **Student Lead**: Ahmad Muhammad Yabo(https://github.com/ahmadmuhammadyabo3-design)
 - **Team Member 2**: Ibrahim Muhammad Yabo (https://github.com/imuhammadyabo)
 - **Team Member 3**: Hamza Sulyman (https://github.com/hmzs26)
+Supervisorproffkebi@gmail.com
 
 
 ## Features
