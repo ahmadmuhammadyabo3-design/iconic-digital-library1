@@ -6,11 +6,11 @@ A modern institutional digital library, research repository, and open-access arc
 
 ## 👥 Team Members & Contributors
 
+- **Supervisor**:  Prof Kabiru Abdullahi(supervisorproffkebi@gmail.com)
+
 - **Student Lead**: Ahmad Muhammad Yabo(https://github.com/ahmadmuhammadyabo3-design)
 - **Team Member 2**: Ibrahim Muhammad Yabo (https://github.com/imuhammadyabo)
 - **Team Member 3**: Hamza Sulyman (https://github.com/hmzs26)
-4. supervisor 
-Supervisor proffkebi@gmail.com
 
 
 ## Features
