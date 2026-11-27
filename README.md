@@ -10,7 +10,7 @@ A modern institutional digital library, research repository, and open-access arc
 - **Team Member 2**: Ibrahim Muhammad Yabo (https://github.com/imuhammadyabo)
 - **Team Member 3**: Hamza Sulyman (https://github.com/hmzs26)
 4 supervisor 
-Supervisorproffkebi@gmail.com
+Supervisor proffkebi@gmail.com
 
 
 ## Features
